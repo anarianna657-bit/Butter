@@ -1,8 +1,21 @@
-# Node / JS
-node_modules/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+!/[Aa]ssets/**/*.meta
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
 
-# Mac junk
+# OS junk
 .DS_Store
-
-# Env files
-.env
+Thumbs.db

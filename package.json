@@ -1,0 +1,9 @@
+{
+  "name": "butter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A 2D mobile game about making butter, running your own bakery, and serving customers.",
+  "scripts": {
+    "start": "echo \"Butter project initialized\""
+  }
+}

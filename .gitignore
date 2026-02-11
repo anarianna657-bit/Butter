@@ -1,0 +1,8 @@
+# Node / JS
+node_modules/
+
+# Mac junk
+.DS_Store
+
+# Env files
+.env
